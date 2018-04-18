@@ -1,5 +1,5 @@
-# SMS-and-Email-BOMBER  [![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](http://www.python.org/download/)
-SMS/Email bomber built in python.
+# BOMBERs  [![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](http://www.python.org/download/)
+SMS/Email/whatsapp bomber built in python.
 
 Python 3
  
