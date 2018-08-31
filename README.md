@@ -13,7 +13,7 @@ SMS/Email/whatsapp bomber built in python.
 
 6. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb_version2.py">wbomb_version2.py (coming soon)</a> -> Whatsapp-bomber sending multipal message to multipal users.
 
-7. <a href="https://github.com/bhattsameer/Bombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> -> Numspy bomber sending multiple free messages using numspy module. 
+7. <a href="https://github.com/bhattsameer/Bombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> -> Numspy bomber sending multiple free messages using numspy module. (Currently not working need to update as per new module)
 
 
 NOTE: i am not responsible for any thing you do with this script
