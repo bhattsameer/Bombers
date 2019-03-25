@@ -1,4 +1,4 @@
-from numspy import Way2sms
+from numpy import Way2sms
 
 try:
 	w2s = Way2sms()
