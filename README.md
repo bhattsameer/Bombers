@@ -15,7 +15,7 @@ SMS/Email/whatsapp bomber built in python.
 
 7. <a href="https://github.com/bhattsameer/Bombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> -> Numspy bomber sending multiple free messages using numspy module. (Currently not working need to update)
 
-8. <a href="https://github.com/Bhai4You/SmS-BomB">SmS-BomB -> Your Own SmS BomBer...!!! - by [Bhai4You](https://github.com/Bhai4You) 
+8. <a href="https://github.com/Bhai4You/SmS-BomB">SmS-BomB</a> -> Your Own SmS BomBer...!!! - by [Bhai4You](https://github.com/Bhai4You) 
 
 NOTE: i am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
