@@ -17,5 +17,7 @@ SMS/Email/whatsapp bomber built in python.
 
 8. <a href="https://github.com/Bhai4You/SmS-BomB">SmS-BomB</a> -> Your Own SmS BomBer...!!! - by [Bhai4You](https://github.com/Bhai4You) 
 
+9. <a href="https://github.com/KANG-NEWBIE/SpamSms">SpamSms</a> -> Spamming mobile number with OTP. - by [KANG-NEWBIE]
+
 NOTE: i am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
