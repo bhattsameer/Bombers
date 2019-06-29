@@ -1,9 +1,7 @@
 # BOMBERs  [![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](http://www.python.org/download/)
 SMS/Email/whatsapp bomber built in python.
 
-1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link.
-
-Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
+1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. NOTE: Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
 
 2. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> -> sending continues sms from using one Multiple links.
 
