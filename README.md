@@ -3,6 +3,8 @@ SMS/Email/whatsapp bomber built in python.
 
 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link.
 
+Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
+
 2. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> -> sending continues sms from using one Multiple links.
 
 3. <a href="https://github.com/iMro0t/bomb3r">Sms bomb3r</a> -> sending continues sms from on specified mobile number - by <a href="https://github.com/iMro0t">iMro0t</a>
