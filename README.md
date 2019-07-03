@@ -1,5 +1,5 @@
 # BOMBERs  [![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](http://www.python.org/download/)
-SMS/Email/whatsapp bomber built in python.
+SMS/Email/whatsapp Bombers Collection.
 
 ## SMS BOMBERS
 
