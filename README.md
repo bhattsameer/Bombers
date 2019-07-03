@@ -18,6 +18,8 @@ SMS/Email/whatsapp bomber built in python.
 
 7. <a href="https://github.com/KANG-NEWBIE/C-SpamMasal">C-SpamMasal</a> -> Spamming mobile number with OTP. - by <a href="https://github.com/KANG-NEWBIE">KANG-NEWBIE</a>
 
+8. <a href="https://github.com/jdleo/SMS-BOMBER">SMS-BOMBER</a> -> SMS Bomber. - by <a href="https://github.com/jdleo">jdleo</a>
+
 ## EMAIL BOMBERS
 
 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> -> sending continues email.
