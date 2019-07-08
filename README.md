@@ -26,6 +26,8 @@ SMS/Email/whatsapp Bombers Collection.
 
 2. <a href="https://github.com/zanyarjamal/Email-bomber">Email_bomber</a> -> sending continues email -by [zanyarjamal](https://github.com/zanyarjamal) 
 
+3. <a href="https://github.com/MrMugiwara/Email-Bomb">Email_bomb</a> -> sending continues email using your yahoo and gmail account-by [MrMugiwara](https://github.com/MrMugiwara)
+
 ## Whats-app Bombers
 
 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a> -> Whatsapp-bomber sending multipal message to a single user
