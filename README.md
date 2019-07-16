@@ -4,7 +4,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) : Working </br>
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) : Not- Working (Or need some modifications) </br>
-![Others](https://placehold.it/15/00FF00/00FF00/?text=+) : Others (pending, Some anothers issues) </br>
+![Others](https://placehold.it/15/00FF00/00FF00/?text=+) : Others (pending, Some anothers issues OR not checked that is it working or not.) </br>
 
 
 ## SMS BOMBERS
