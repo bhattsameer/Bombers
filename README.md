@@ -20,23 +20,23 @@ SMS/Email/whatsapp Bombers Collection.
 
 8. <a href="https://github.com/jdleo/SMS-BOMBER">SMS-BOMBER</a> -> SMS Bomber. - by <a href="https://github.com/jdleo">jdleo</a>
 
-<span style="color:blue">*=>>*</span> 9. <a href="https://github.com/metachar/Tortuga">SMS spamming using email address</a> -> SMS using email. - by <a href="https://github.com/metachar/Tortuga">metachar</a>
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 9. <a href="https://github.com/metachar/Tortuga">SMS spamming using email address</a> -> SMS using email. - by <a href="https://github.com/metachar/Tortuga">metachar</a>
 
 ## EMAIL BOMBERS
 
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> -> sending continues email.
 
-2. <a href="https://github.com/zanyarjamal/Email-bomber">Email_bomber</a> -> sending continues email -by [zanyarjamal](https://github.com/zanyarjamal) 
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 2. <a href="https://github.com/zanyarjamal/Email-bomber">Email_bomber</a> -> sending continues email -by [zanyarjamal](https://github.com/zanyarjamal) 
 
-3. <a href="https://github.com/MrMugiwara/Email-Bomb">Email_bomb</a> -> sending continues email using your yahoo and gmail account-by [MrMugiwara](https://github.com/MrMugiwara)
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 3. <a href="https://github.com/MrMugiwara/Email-Bomb">Email_bomb</a> -> sending continues email using your yahoo and gmail account-by [MrMugiwara](https://github.com/MrMugiwara)
 
 ## Whats-app Bombers
 
-1. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a> -> Whatsapp-bomber sending multipal message to a single user
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a> -> Whatsapp-bomber sending multipal message to a single user
 
-2. <a href="https://github.com/tbhaxor/whatabomb">whatabomb</a>  -> Whats-app bomber GUI - by [tbhaxor](https://github.com/tbhaxor)
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 2. <a href="https://github.com/tbhaxor/whatabomb">whatabomb</a>  -> Whats-app bomber GUI - by [tbhaxor](https://github.com/tbhaxor)
 
-![Working](https://placehold.it/15/00FF00/00FF00/?text=+) 3. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb_version2.py">wbomb_version2.py (coming soon)</a> -> Whatsapp-bomber sending multipal message to multipal users.
+![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 3. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb_version2.py">wbomb_version2.py (coming soon)</a> -> Whatsapp-bomber sending multipal message to multipal users.
 
 NOTE: i am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
