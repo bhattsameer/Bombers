@@ -7,7 +7,7 @@ SMS/Email/whatsapp Bombers Collection.
 + this will be highlighted in green
 - this will be highlighted in red
 ```
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#f03c15] `#f03c15`
 <b style='color:red'>red words</b> 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. 
      NOTE: Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
 
