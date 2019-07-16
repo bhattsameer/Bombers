@@ -3,12 +3,12 @@ SMS/Email/whatsapp Bombers Collection.
 
 ## SMS BOMBERS
 
-<span style="color:red">Test **Test =>>**</span> 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. 
+<b style='color:red'>red words</b> 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. 
      NOTE: Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
 
 2. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> -> sending continues sms from using one Multiple links.
 
-3. <a href="https://github.com/iMro0t/bomb3r">Sms bomb3r</a> -> <p style="color:red">sending continues sms from on specified mobile number - by </p><a href="https://github.com/iMro0t">iMro0t</a>
+3. <a href="https://github.com/iMro0t/bomb3r">Sms bomb3r</a> -> sending continues sms from on specified mobile number - by <a href="https://github.com/iMro0t">iMro0t</a>
 
 4. <a href="https://github.com/bhattsameer/Bombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> -> Numspy bomber sending multiple free messages using numspy module. (Currently not working need to update)
 
