@@ -3,7 +3,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ## SMS BOMBERS
 
-<span style="color:red">=>></span> 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. 
+<span style="color:red">*=>>*</span> 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. 
      NOTE: Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
 
 2. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> -> sending continues sms from using one Multiple links.
@@ -20,7 +20,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 8. <a href="https://github.com/jdleo/SMS-BOMBER">SMS-BOMBER</a> -> SMS Bomber. - by <a href="https://github.com/jdleo">jdleo</a>
 
-<span style="color:blue">=>></span> 9. <a href="https://github.com/metachar/Tortuga">SMS spamming using email address</a> -> SMS using email. - by <a href="https://github.com/metachar/Tortuga">metachar</a>
+<span style="color:blue">*=>>*</span> 9. <a href="https://github.com/metachar/Tortuga">SMS spamming using email address</a> -> SMS using email. - by <a href="https://github.com/metachar/Tortuga">metachar</a>
 
 ## EMAIL BOMBERS
 
