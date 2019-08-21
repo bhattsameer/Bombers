@@ -18,7 +18,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/bhattsameer/Bombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> -> Numspy bomber sending multiple free messages using numspy module. (Currently not working need to update)
 
-![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 5. <a href="https://github.com/Bhai4You/SmS-BomB">SmS-BomB</a> -> Your Own SmS BomBer...!!! - by [Bhai4You](https://github.com/Bhai4You) 
+![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 5. <a href="https://github.com/Bhai4You/SmS-BomB">SmS-BomB</a> -> Your Own SmS BomBer...!!! - by [Bhai4You](https://github.com/Bhai4You) 
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 6. <a href="https://github.com/KANG-NEWBIE/SpamSms">SpamSms</a> -> Spamming mobile number with OTP. - by <a href="https://github.com/KANG-NEWBIE">KANG-NEWBIE</a>
 
