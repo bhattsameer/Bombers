@@ -14,7 +14,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 2. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> -> sending continues sms from using one Multiple links.
 
-![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 3. <a href="https://github.com/iMro0t/bomb3r">Sms bomb3r</a> -> sending continues sms from on specified mobile number - by <a href="https://github.com/iMro0t">iMro0t</a>
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 3. <a href="https://github.com/iMro0t/bomb3r">bomb3r 💣</a> -> sending continues sms from on specified mobile number (25 different sms providers)- by <a href="https://github.com/iMro0t">iMro0t</a>
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/bhattsameer/Bombers/blob/master/numspy_bomber.py">numspy_bomber.py</a> -> Numspy bomber sending multiple free messages using numspy module. (Currently not working need to update)
 
