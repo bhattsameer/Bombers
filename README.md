@@ -50,3 +50,7 @@ NOTE: i am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
 
 ## Please contribute!
+
+## Thanks
+
+<a href="https://github.com/iMro0t">iMro0t</a>
