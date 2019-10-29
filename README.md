@@ -49,8 +49,8 @@ SMS/Email/whatsapp Bombers Collection.
 NOTE: i am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
 
-## Please contribute!
-
-## Thanks
+## Active Contributors:
 
 <a href="https://github.com/iMro0t">iMro0t</a>
+
+## Please contribute!
