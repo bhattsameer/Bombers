@@ -21,12 +21,14 @@ def main():
 
 	user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
 	user.click()
-
-	msg_box = driver.find_element_by_class_name('_2bXVy')
+	
+	# The classname of message box may vary.
+	msg_box = driver.find_element_by_class_name('_13mgZ') 
 		
 	for i in range(count):
 		msg_box.send_keys(msg)
-		button = driver.find_element_by_class_name('_2lkdt')
+		# The classname of send button may vary.
+		button = driver.find_element_by_class_name('_3M-N-')
 		button.click() 
 	print('Bombing Complete!!')
 
