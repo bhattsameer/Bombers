@@ -56,8 +56,9 @@ SMS/Email/whatsapp Bombers Collection.
 NOTE: i am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
 
-## Active Contributors:
+## Contributors:
 
 <a href="https://github.com/iMro0t">iMro0t</a>
+<a href="https://github.com/rizwansoaib">rizwansoaib</a>
 
 ## Please contribute!
