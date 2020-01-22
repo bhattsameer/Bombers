@@ -51,6 +51,8 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 3. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb_version2.py">wbomb_version2.py (coming soon)</a> -> Whatsapp-bomber sending multipal message to multipal users.
 
+![Chrome WhatsApp-Bomber](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/rizwansoaib/WhatsApp-Bomber">WhatsApp-Bomber</a>  -> WhatsApp-Bomber (Chrome Extension) - by [rizwansoaib](https://github.com/rizwansoaib)
+
 NOTE: i am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
 
