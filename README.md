@@ -1,4 +1,4 @@
-# BOMBERs  [![Python 3.x](https://img.shields.io/badge/Python-3.x-yellow.svg)](http://www.python.org/download/)
+# BOMBERs 💣💣💣
 SMS/Email/whatsapp Bombers Collection.
 
 
