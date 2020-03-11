@@ -8,7 +8,7 @@ SMS/Email/whatsapp Bombers Collection.
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) : Others (pending, Some anothers issues OR not checked that is it working or not.) </br>
 
 
-### SMS BOMBERS
+### SMS BOMBERS :calling: :boom:
 
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. 
      NOTE: Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
