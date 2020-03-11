@@ -65,7 +65,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ## Others:
 
-![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. https://mailspammer.cf - Email Spammer Website. Spam piles and piles of emails! by [WOLFIE_OG](https://github.com/WOLFIE-OG)
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. https://mailspammer.cf - Email Spammer Website. Spam piles and piles of emails! - by [WOLFIE_OG](https://github.com/WOLFIE-OG)
 
 ## Contributors:
 
