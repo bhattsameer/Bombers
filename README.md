@@ -70,8 +70,9 @@ SMS/Email/whatsapp Bombers Collection.
 
 ## Contributors:
 
-<a href="https://github.com/iMro0t">iMro0t</a></br>
-<a href="https://github.com/rizwansoaib">rizwansoaib</a>
+:octocat: ![iMro0t](https://github.com/iMro0t)</br> 
+:octocat: ![rizwansoaib](https://github.com/rizwansoaib)</br> 
+:whatsapp:
 
 ## Note:
 
