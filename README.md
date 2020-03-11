@@ -50,6 +50,8 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 6. <a href="https://github.com/Curioo/emailpyspam">EmailPySpam</a> -> Email Bomber. - by <a href="https://github.com/Curioo">Curioo</a>
 
+![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/Juniorn1003/Email-Spammer">Email-Spammer</a> -> Email Bomber. - by <a href="https://github.com/Juniorn1003">Juniorn1003</a>
+
 ## Whats-app Bombers
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a> -> Whatsapp-bomber sending multipal message to a single user
