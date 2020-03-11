@@ -7,7 +7,7 @@ SMS/Email/whatsapp Bombers Collection.
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) : Others (pending, Some anothers issues OR not checked that is it working or not.) </br>
 
 
-## SMS BOMBERS
+### SMS BOMBERS
 
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link. 
      NOTE: Sms_bomber.py not working anymore, please refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
@@ -52,7 +52,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/Juniorn1003/Email-Spammer">Email-Spammer</a> -> Email Bomber. - by <a href="https://github.com/Juniorn1003">Juniorn1003</a>
 
-## Whats-app Bombers
+### Whats-app Bombers
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a> -> Whatsapp-bomber sending multipal message to a single user
 
@@ -63,7 +63,7 @@ SMS/Email/whatsapp Bombers Collection.
 ![Chrome WhatsApp-Bomber](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/rizwansoaib/WhatsApp-Bomber">WhatsApp-Bomber</a>  -> WhatsApp-Bomber (Chrome Extension) - by [rizwansoaib](https://github.com/rizwansoaib)
 
 
-## Others:
+### Others:
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. https://mailspammer.cf - Email Spammer Website. Spam piles and piles of emails! - by [WOLFIE_OG](https://github.com/WOLFIE-OG)
 
