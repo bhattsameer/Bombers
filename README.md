@@ -37,7 +37,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 13. <a href="https://github.com/4nat/Reborn">Reborn SMS Bomber For Termux and Linux</a> -> Reborn SMS Bomber. - by <a href="https://github.com/4nat">4nat</a>
 
-### :email: BOMBERS
+### EMAIL BOMBERS :email: :boom:
 
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> -> sending continues email.
 
