@@ -62,6 +62,11 @@ SMS/Email/whatsapp Bombers Collection.
 
 ![Chrome WhatsApp-Bomber](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/rizwansoaib/WhatsApp-Bomber">WhatsApp-Bomber</a>  -> WhatsApp-Bomber (Chrome Extension) - by [rizwansoaib](https://github.com/rizwansoaib)
 
+
+## Others:
+
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. https://mailspammer.cf - Email Spammer Website. Spam piles and piles of emails! by [WOLFIE_OG](https://github.com/WOLFIE-OG)
+
 NOTE: I am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
 
