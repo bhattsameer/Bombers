@@ -72,10 +72,9 @@ SMS/Email/whatsapp Bombers Collection.
 <a href="https://github.com/iMro0t">iMro0t</a></br>
 <a href="https://github.com/rizwansoaib">rizwansoaib</a>
 
-## Please contribute!
-
-
 ## Note:
 
 I am not responsible for any thing you do with this script
 This is just for learning and knowledge purpose.
+
+## Please contribute!
