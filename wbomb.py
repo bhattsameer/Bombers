@@ -1,6 +1,7 @@
 
 from selenium import webdriver
 import os
+from webdriver_manager.chrome import ChromeDriverManager #1st changer
 def banner():
 	print('''
 		  ##              ##  =======     ####       ####    ####     =======
@@ -10,7 +11,7 @@ def banner():
 		     ####    ####     =======     ####    ##              ##  =======
 		''')
 def main():
-	driver = webdriver.Chrome()
+	driver = webdriver.Chrome(ChromeDriverManager().install()) #2nd change
 	driver.get('https://web.whatsapp.com/')
 
 	name = input('Enter the name of user or group: ')
