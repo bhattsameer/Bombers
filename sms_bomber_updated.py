@@ -6,6 +6,11 @@ import platform
 import os
 import time
 
+try:
+    raw_input
+except NameError:
+    raw_input = input
+
 def banner():
     if platform.system().lower()=="windows":
         os.system("cls")
