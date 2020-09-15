@@ -1,4 +1,3 @@
-
 from selenium import webdriver
 import os
 from webdriver_manager.chrome import ChromeDriverManager #1st changer
@@ -24,12 +23,12 @@ def main():
 	user.click()
 	
 	# The classname of message box may vary.
-	msg_box = driver.find_element_by_class_name('_13mgZ') 
+	msg_box = driver.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[2]/div/div[2]') 
 		
 	for i in range(count):
 		msg_box.send_keys(msg)
 		# The classname of send button may vary.
-		button = driver.find_element_by_class_name('_3M-N-')
+		button = driver.find_element_by_xpath('//*[@id="main"]/footer/div[1]/div[3]/button') 
 		button.click() 
 	print('Bombing Complete!!')
 
