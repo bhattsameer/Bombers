@@ -78,6 +78,8 @@ SMS/Email/whatsapp Bombers Collection.
 :octocat: [iMro0t](https://github.com/iMro0t)</br> 
 :octocat: [rizwansoaib](https://github.com/rizwansoaib)</br> 
 :octocat: [scienceLabwork](https://github.com/scienceLabwork)</br> 
+:octocat: [cclauss](https://github.com/cclauss)</br> 
+:octocat: [rduttshukla](https://github.com/rduttshukla)</br> 
 
 ## Note:
 
