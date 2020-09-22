@@ -80,6 +80,7 @@ SMS/Email/whatsapp Bombers Collection.
 :octocat: [scienceLabwork](https://github.com/scienceLabwork)</br> 
 :octocat: [cclauss](https://github.com/cclauss)</br> 
 :octocat: [rduttshukla](https://github.com/rduttshukla)</br> 
+:octocat: [LucasNcipha](https://github.com/LucasNcipha)</br> 
 
 ## Note:
 
