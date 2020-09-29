@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import sys
 from selenium.webdriver.chrome.options import Options
 
 
@@ -69,7 +70,6 @@ def attack():
     ## GET MESSAGE INBOX ###
     messageLink = driver.find_element_by_xpath('//*[@id="react-root"]/div/div/div[2]/main/div/div/div/div[1]/div/div[2]/div/div/div[1]/div/div[1]/div/div[2]')
     messageLink.click()
-    driver.minimize_window()
 
     #### SEND MESSAGE IN VICTIMS INBOX ###
 
