@@ -26,8 +26,17 @@ def banner():
 
 parser = argparse.ArgumentParser(description='Bomb twitter user with spam messages')
 
-parser.add_argument('--username', type=str, required=True, help="twitter username @\ of user, can be his phone number or email")
-parser.add_argument('--password', type=str, required=True, help="twitter password of the user")
+""" 4 Step: 
+
+    1) run command python Twitter_bomber.py -u *your_twitter_username* -p *your_twitter_password*
+    2) enter correct username of person you want to spam, make sure his twitter messages are open
+    3) press 1 if you want to manually type the message you eant to send; or 2 if you want to export a file and extract message from there
+    4) enter message count
+
+"""
+
+parser.add_argument('-u', '--username', type=str, required=True, help="twitter username @\ of user, can be his phone number or email")
+parser.add_argument('-p', '--password', type=str, required=True, help="twitter password of the user")
 args = parser.parse_args()
 
 chrome_options = webdriver.ChromeOptions()
