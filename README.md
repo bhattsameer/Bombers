@@ -1,5 +1,5 @@
 # :boom::bomb::bomb::bomb: BOMBERs :bomb::bomb::bomb::boom:
-SMS/Email/whatsapp Bombers Collection.
+𝕊𝕄𝕊/𝔼𝕞𝕒𝕚𝕝/𝕨𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) : Working </br>
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) : Not- Working (Or need some modifications) </br>
@@ -84,7 +84,7 @@ SMS/Email/whatsapp Bombers Collection.
 
 ## Note:
 
-I am not responsible for any thing you do with this script
-This is just for learning and knowledge purpose.
+𝙄 𝙖𝙢 𝙣𝙤𝙩 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙗𝙡𝙚 𝙛𝙤𝙧 𝙖𝙣𝙮 𝙩𝙝𝙞𝙣𝙜 𝙮𝙤𝙪 𝙙𝙤 𝙬𝙞𝙩𝙝 𝙩𝙝𝙞𝙨 𝙨𝙘𝙧𝙞𝙥𝙩
+𝙏𝙝𝙞𝙨 𝙞𝙨 𝙟𝙪𝙨𝙩 𝙛𝙤𝙧 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙥𝙪𝙧𝙥𝙤𝙨𝙚.
 
 ## Please contribute!
