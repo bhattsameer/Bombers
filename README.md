@@ -1,5 +1,5 @@
 # :boom::bomb::bomb::bomb: BOMBERs :bomb::bomb::bomb::boom:
-𝕊𝕄𝕊/𝔼𝕞𝕒𝕚𝕝/𝕨𝕙𝕒𝕥𝕤𝕒𝕡𝕡 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡
+𝕊𝕄𝕊/𝔼𝕞𝕒𝕚𝕝/𝕨𝕙𝕒𝕥𝕤𝕒𝕡𝕡/Twitter 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) : Working </br>
 ![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) : Not- Working (Or need some modifications) </br>
@@ -41,7 +41,7 @@
 
 ### EMAIL BOMBERS :e-mail: :boom:
 
-![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> -> sending continues email.
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> -> sending continues email. Update with Outlook bomber as well - by [xyzricky](https://github.com/xyzricky)
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 2. <a href="https://github.com/zanyarjamal/Email-bomber">Email_bomber</a> -> sending continues email -by [zanyarjamal](https://github.com/zanyarjamal) 
 
@@ -67,6 +67,10 @@
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 5. <a href="https://github.com/macr1408/Whatsapp-scripts">WhatsApp-Spam</a> -> WhatsApp-Spam scripts - by [macr1408](https://github.com/macr1408)
 
+### Twitter Bombers :boom:
+
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/Twitter_bomber.py">Twitter_bomber.py</a> -> Twitter-bomber this will allow spamming the twitter inbox of a person with the message you want, the person who is using this must make sure that the inbox of the user who will be spammed is open - by [akshaykalucha3](https://github.com/akshaykalucha3)
+
 ### Others:
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. https://mailspammer.cf - Email Spammer Website. Spam piles and piles of emails! - by [WOLFIE_OG](https://github.com/WOLFIE-OG)
@@ -80,7 +84,9 @@
 :octocat: [scienceLabwork](https://github.com/scienceLabwork)</br> 
 :octocat: [cclauss](https://github.com/cclauss)</br> 
 :octocat: [rduttshukla](https://github.com/rduttshukla)</br> 
-:octocat: [LucasNcipha](https://github.com/LucasNcipha)</br> 
+:octocat: [LucasNcipha](https://github.com/LucasNcipha)</br>
+:octocat: [akshaykalucha3](https://github.com/akshaykalucha3)</br>
+:octocat: [xyzricky](https://github.com/xyzricky)</br>
 
 ## Note:
 
