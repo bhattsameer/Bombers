@@ -59,6 +59,6 @@ try:
     for number in numbers:
         send(number, int(input(f"Enter Number of Messages for {number} : ")), randint(3))
 except Exception as e:
-    print("Something is wrong please Re-run this script.")
+    print("Something is wrong please Run again this script.")
     
    
