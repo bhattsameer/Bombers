@@ -63,7 +63,7 @@
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 3. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb_version2.py">wbomb_version2.py (coming soon)</a> -> Whatsapp-bomber sending multipal message to multipal users.
 
-![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 4. <a href="https://github.com/rizwansoaib/WhatsApp-monitor">WhatsApp-Bomber</a>  -> WhatsApp Monitor+Bomber (Chrome Extension) - by [rizwansoaib](https://github.com/rizwansoaib)
+![Not-Working](https://placehold.it/15/FF0000/FF0000/?text=+) 4. <a href="https://github.com/rizwansoaib/WhatsApp-monitor">WhatsApp-Bomber</a>  -> WhatsApp Monitor+Bomber (Chrome Extension) - by [rizwansoaib](https://github.com/rizwansoaib)
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 5. <a href="https://github.com/macr1408/Whatsapp-scripts">WhatsApp-Spam</a> -> WhatsApp-Spam scripts - by [macr1408](https://github.com/macr1408)
 
