@@ -85,8 +85,6 @@
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 4. <a href="https://github.com/bhattsameer/Bombers/blob/master/spam.py">PySpam</a> -> Spam for pc {not work ok phone} - by [timofey260](https://github.com/timofey260)
 
-![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 5. <a href="https://github.com/el-pr0f3ss0r/bomberthon">bomberthon</a> -> Best Bombing Tool with WhatsApp, Instagram, SMS bomber - by [el-pr0f3ss0r](https://github.com/el-pr0f3ss0r)
-
 
 ## Contributors:
 
