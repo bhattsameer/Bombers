@@ -57,6 +57,8 @@
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 8. <a href="https://github.com/mohinparamasivam/Email-Bomber">Email-Bomber</a> -> Email Bomber. - by <a href="https://github.com/mohinparamasivam">mohinparamasivam</a>
 
+![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 9. <a href="https://github.com/juzeon/fast-mail-bomber">Fast Mail Bomber</a> -> Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails via mailman services hosted by different providers. - by <a href="https://github.com/juzeon">juzeon</a>
+
 ### Whats-app Bombers :calling: :boom:
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a> -> Whatsapp-bomber sending multipal message to a single user
