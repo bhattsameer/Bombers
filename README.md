@@ -99,6 +99,7 @@ To keep this collection up-to-date need contributors who can add more mobile/ema
 :octocat: [akshaykalucha3](https://github.com/akshaykalucha3)</br>
 :octocat: [xyzricky](https://github.com/xyzricky)</br>
 :octocat: [timofey260](https://github.com/timofey260)</br>
+:octocat: [juzeon](https://github.com/juzeon)</br>
 
 ## Note:
 
