@@ -9,7 +9,7 @@
 ### SMS BOMBERS :calling: :boom:
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber.py">Sms_bomber.py</a> -> sending continues sms from using one single link.  
-     NOTE: Sms_bomber.py is now working too Thanks to [Ghost](https://github.com/ghost). You also refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
+     NOTE: Sms_bomber.py is now working too Thanks to [Ghost](https://github.com/ghost). Also refer: <a href="https://github.com/bhattsameer/Bombers/blob/master/sms_bomber_updated.py">Sms_bomber_updated.py</a>
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 2. <a href="https://github.com/bhattsameer/Bombers/blob/master/SMS_bomber_version2.py">Sms_bomber_version2.py</a> -> sending continues sms from using one Multiple links.
 
