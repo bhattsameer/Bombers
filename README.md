@@ -41,6 +41,8 @@
 
 ![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 16. <a href="https://github.com/1d8/smsbomb">smsbomb</a> -> Sms Bomber. - by <a href="https://github.com/1d8">1d8</a>
 
+![Others](https://placehold.it/15/00FF00/00FF00/?text=+) 17. <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a> -> Superfast SMS bomber for linux and termux. - by <a href="https://github.com/anubhavanonymous">anubhavanonymous</a> 
+
 ### EMAIL BOMBERS :e-mail: :boom:
 
 ![Working](https://placehold.it/15/0000FF/0000FF/?text=+) 1. <a href="https://github.com/bhattsameer/Bombers/blob/master/Email_bomber.py">Email_bomber.py</a> -> sending continues email. Update with Outlook bomber as well - by [xyzricky](https://github.com/xyzricky)
