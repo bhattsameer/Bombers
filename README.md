@@ -81,6 +81,7 @@ To keep this collection up-to-date need contributors who can add more mobile/ema
 |:octocat: [timofey260](https://github.com/timofey260)|
 |:octocat: [juzeon](https://github.com/juzeon)|
 |:octocat: [Ghost](https://github.com/ghost)|
+|:octocat: [everydaycodings](https://github.com/everydaycodings)|
 
 ## Note:
 
