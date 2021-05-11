@@ -41,7 +41,7 @@
 |7.| <a href="https://github.com/Juniorn1003/Email-Spammer">Email-Spammer</a> | Email Bomber. | <a href="https://github.com/Juniorn1003">Juniorn1003</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |8.| <a href="https://github.com/mohinparamasivam/Email-Bomber">Email-Bomber</a> |Email Bomber.|<a href="https://github.com/mohinparamasivam">mohinparamasivam</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |9.| <a href="https://github.com/juzeon/fast-mail-bomber">Fast Mail Bomber</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails via mailman services hosted by different providers. | <a href="https://github.com/juzeon">juzeon</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
-|10.| <a href="https://github.com/everydaycodings/Bombers/blob/master/Email_bomber.py">Email_Bomber_Version2</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails To multiple Victims(Improved Version). | <a href="https://github.com/everydaycodings">everydaycodings</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|10.| <a href="https://github.com/everydaycodings/Email-Bomber">Email_Bomber_Version2</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails To multiple Victims(Improved Version). | <a href="https://github.com/everydaycodings">everydaycodings</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
 ### Whats-app Bombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
