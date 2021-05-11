@@ -66,21 +66,16 @@
 
 ## Contributors:
 
-To keep this collection up-to-date need contributors who can add more mobile/email/whatsapp/twitter scripts and github repo here at one place.
-| Contributors |
-|--------------|
-|:octocat: [iMro0t](https://github.com/iMro0t)|
-|:octocat: [rizwansoaib](https://github.com/rizwansoaib)|
-|:octocat: [scienceLabwork](https://github.com/scienceLabwork)|
-|:octocat: [cclauss](https://github.com/cclauss)|
-|:octocat: [rduttshukla](https://github.com/rduttshukla)|
-|:octocat: [LucasNcipha](https://github.com/LucasNcipha)|
-|:octocat: [akshaykalucha3](https://github.com/akshaykalucha3)|
-|:octocat: [xyzricky](https://github.com/xyzricky)|
-|:octocat: [timofey260](https://github.com/timofey260)|
-|:octocat: [juzeon](https://github.com/juzeon)|
-|:octocat: [Ghost](https://github.com/ghost)|
-|:octocat: [everydaycodings](https://github.com/everydaycodings)|
+To keep this collection up-to-date need contributors who can add more mobile/email/whatsapp/twitter scripts and github repo here at one place.  
+|||
+|--------------|----------|
+|:octocat: [iMro0t](https://github.com/iMro0t)|:octocat: [akshaykalucha3](https://github.com/akshaykalucha3)|  
+|:octocat: [rizwansoaib](https://github.com/rizwansoaib)|:octocat: [xyzricky](https://github.com/xyzricky)|  
+|:octocat: [scienceLabwork](https://github.com/scienceLabwork)|:octocat: [timofey260](https://github.com/timofey260)|  
+|:octocat: [cclauss](https://github.com/cclauss)|:octocat: [juzeon](https://github.com/juzeon)|  
+|:octocat: [rduttshukla](https://github.com/rduttshukla)|:octocat: [Ghost](https://github.com/ghost)|  
+|:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)|  
+
 
 ## Note:
 
