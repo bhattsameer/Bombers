@@ -1,5 +1,5 @@
 # :boom::bomb::bomb::bomb: BOMBERs :bomb::bomb::bomb::boom:
-SMS/Email/Whatsapp/Twitter/Instagram 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡ Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+***SMS/Email/Whatsapp/Twitter/Instagram 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡ Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.*** 
 
 | Status | Description | Color Code |
 |--------|-------------|------------|
