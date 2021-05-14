@@ -1,5 +1,5 @@
 # :boom::bomb::bomb::bomb: BOMBERs :bomb::bomb::bomb::boom:
-𝕊𝕄𝕊/𝔼𝕞𝕒𝕚𝕝/𝕨𝕙𝕒𝕥𝕤𝕒𝕡𝕡/Twitter/Instagram 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡
+SMS/Email/Whatsapp/Twitter/Instagram 𝔹𝕠𝕞𝕓𝕖𝕣𝕤 ℂ𝕠𝕝𝕝𝕖𝕔𝕥𝕚𝕠𝕟. ♡ Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
 
 | Status | Description | Color Code |
 |--------|-------------|------------|
@@ -62,6 +62,12 @@
 |2.| <a href="https://github.com/HoneyPots0/HPomb">HPomb</a>|HPomb Call, SMS and mail bomber all in one. |[HoneyPots0](https://github.com/HoneyPots0)|![Others](https://via.placeholder.com/15/1589F0/000000?text=+)|
 |3.| <a href="https://github.com/b31ngD3v/bomberthon">bomberthon</a> |Best Bombing Tool with WhatsApp, Instagram, SMS bomber | [b31ngD3v](https://github.com/b31ngD3v)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
 |4.| <a href="https://github.com/bhattsameer/Bombers/blob/master/spam.py">PySpam</a> | Spam for pc {not work on phone} | [timofey260](https://github.com/timofey260)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
+
+### TEMP & Fake-SMS Collection:  
+| Sr.No. | Name | Description | Developed By | Status |
+|--------|------|--------------|-------------|--------|
+|1.| <a href="https://github.com/sdushantha/tmpsms">tmpsms</a>| A temporary SMS utility right from your terminal written in POSIX sh. |[sdushantha](https://github.com/sdushantha)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|2.| <a href="https://github.com/Narasimha1997/fake-sms">fake-sms</a>| A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy. |[Narasimha1997](https://github.com/Narasimha1997)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
 
 ## Contributors:
