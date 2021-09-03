@@ -8,10 +8,7 @@ import time
 
 try:
     raw_input
-except NameError:
-    raw_input = input
-
-def banner():
+except NameErroR 
     if platform.system().lower()=="windows":
         os.system("cls")
     else:
@@ -57,6 +54,7 @@ try:
     throttle = raw_input("Enter time of sleep: ")
     send(number,int(count), int(throttle))
 except Exception as e:
-    print("Something is wrong please Re-run this script.")
+    print("Something is wrong please Re-run this script.")                       
+    BY ANSIL
     
    
