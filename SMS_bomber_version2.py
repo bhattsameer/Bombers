@@ -44,7 +44,7 @@ def send(num, counter, slep):
         for x in url1:
             banner()
             print("Target Number          : ", num)
-            print("Number of Message Sent : ", y+1)
+            print("Number of Messages to Sent : ", y+1)
             result_url=str(x)+num
             resp1=Request(result_url)
             urlopen(resp1)
