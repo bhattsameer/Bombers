@@ -23,8 +23,8 @@
 |10.| <a href="https://github.com/shellvon/smsBomb">smsBomb</a> |SMS Bomber.| <a href="https://github.com/shellvon">shellvon</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
 |11.| <a href="https://github.com/aarnhub/sms-bomber">sms-bomber</a>| SMS Bomber. |<a href="https://github.com/aarnhub">aarnhub</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
 |12.| <a href="https://github.com/4nat/Reborn">Reborn SMS Bomber For Termux and Linux</a>|Reborn SMS Bomber. |<a href="https://github.com/4nat">4nat</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
-|13.| <a href="https://github.com/Nikait/ni_bomber">ni_bomber</a> |SMS Bomber |<a href="https://github.com/Nikait">Nikait</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
-|14.| <a href="https://github.com/AvinashReddy3108/YetAnotherSMSBomber">YetAnotherSMSBomber</a>|Sms Bomber.|<a href="https://github.com/AvinashReddy3108">AvinashReddy3108</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|13.| <a href="https://github.com/Nikait/ni_bomber">ni_bomber</a> |SMS Bomber |<a href="https://github.com/Nikait">Nikait</a>|![Not-Working](https://via.placeholder.com/15/f03c15/000000?text=+) |
+|14.| <a href="https://github.com/AvinashReddy3108/YetAnotherSMSBomber">YetAnotherSMSBomber</a>|Sms Bomber.|<a href="https://github.com/AvinashReddy3108">AvinashReddy3108</a>|![Not-Working](https://via.placeholder.com/15/f03c15/000000?text=+) |
 |15.| <a href="https://github.com/1d8/smsbomb">smsbomb</a>|Sms Bomber.|<a href="https://github.com/1d8">1d8</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
 |16.| <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a>|Superfast SMS bomber for linux and termux, Also sends OTP to whatsapp. |<a href="https://github.com/anubhavanonymous">anubhavanonymous</a> |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
