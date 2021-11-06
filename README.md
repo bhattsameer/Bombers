@@ -46,7 +46,7 @@
 ### Whats-app Bombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
-|1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a>| Whatsapp-bomber sending multipal message to a single user.|<a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
+|1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/wbomb.py">wbomb.py</a>| Whatsapp-bomber sending multipal message to a single user.|<a href="https://github.com/bhattsameer/Bombers/blob/master">bhattsameer</a> Last Modified: [getPoland](https://github.com/getPoland)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
 |2.| <a href="https://github.com/tbhaxor/whatabomb">whatabomb</a>  | Whats-app bomber GUI. | [tbhaxor](https://github.com/tbhaxor)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |3.| <a href="https://github.com/rizwansoaib/WhatsApp-monitor">WhatsApp-Bomber</a> | WhatsApp Monitor+Bomber (Chrome Extension)| [rizwansoaib](https://github.com/rizwansoaib)|![Not-Working](https://via.placeholder.com/15/f03c15/000000?text=+)|
 |4.| <a href="https://github.com/macr1408/Whatsapp-scripts">WhatsApp-Spam</a> | WhatsApp-Spam scripts | [macr1408](https://github.com/macr1408)|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
