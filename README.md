@@ -81,7 +81,8 @@ To keep this collection up-to-date need contributors who can add more mobile/ema
 |:octocat: [scienceLabwork](https://github.com/scienceLabwork)|:octocat: [timofey260](https://github.com/timofey260)|  
 |:octocat: [cclauss](https://github.com/cclauss)|:octocat: [juzeon](https://github.com/juzeon)|  
 |:octocat: [rduttshukla](https://github.com/rduttshukla)|:octocat: [Ghost](https://github.com/ghost)|  
-|:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)|  
+|:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)|
+|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)| |
 
 
 ## Note:
