@@ -59,7 +59,7 @@
 ### Others:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
-|1.| https://mailspammer.cf | Email Spammer Website. Spam piles and piles of emails! |[WOLFIE_OG](https://github.com/WOLFIE-OG)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|1.| https://mailspammer.cf | Email Spammer Website. Spam piles and piles of emails! |[WOLFIE_OG](https://github.com/WOLFIE-OG)|![Not-Working](https://via.placeholder.com/15/f03c15/000000?text=+) |
 |2.| <a href="https://github.com/HoneyPots0/HPomb">HPomb</a>|HPomb Call, SMS and mail bomber all in one. |[HoneyPots0](https://github.com/HoneyPots0)|![Others](https://via.placeholder.com/15/1589F0/000000?text=+)|
 |3.| <a href="https://github.com/b31ngD3v/bomberthon">bomberthon</a> |Best Bombing Tool with WhatsApp, Instagram, SMS bomber | [b31ngD3v](https://github.com/b31ngD3v)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
 |4.| <a href="https://github.com/bhattsameer/Bombers/blob/master/spam.py">PySpam</a> | Spam for pc {not work on phone} | [timofey260](https://github.com/timofey260)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
