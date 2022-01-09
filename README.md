@@ -19,7 +19,7 @@
 |6.| <a href="https://github.com/KANG-NEWBIE/SpamSms">SpamSms</a> |Spamming mobile number with OTP.|<a href="https://github.com/KANG-NEWBIE">KANG-NEWBIE</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+)|
 |7.| <a href="https://github.com/KANG-NEWBIE/C-SpamMasal">C-SpamMasal</a> |Spamming mobile number with OTP. |<a href="https://github.com/KANG-NEWBIE">KANG-NEWBIE</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
 |8.| <a href="https://github.com/jdleo/SMS-BOMBER">SMS-BOMBER</a> |SMS Bomber.|<a href="https://github.com/jdleo">jdleo</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
-|9.| <a href="https://github.com/TheSpeedX/TBomb">TBomb</a> |SMS Bomber(Ubuntu/termux) | <a href="https://github.com/TheSpeedX">TheSpeedX</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|9.| <a href="https://github.com/TheSpeedX/TBomb">TBomb</a> |A free and open-source SMS/Call bombing application | <a href="https://github.com/TheSpeedX">TheSpeedX</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |10.| <a href="https://github.com/shellvon/smsBomb">smsBomb</a> |SMS Bomber.| <a href="https://github.com/shellvon">shellvon</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
 |11.| <a href="https://github.com/aarnhub/sms-bomber">sms-bomber</a>| SMS Bomber. |<a href="https://github.com/aarnhub">aarnhub</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
 |12.| <a href="https://github.com/4nat/Reborn">Reborn SMS Bomber For Termux and Linux</a>|Reborn SMS Bomber. |<a href="https://github.com/4nat">4nat</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
