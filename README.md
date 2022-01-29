@@ -27,6 +27,7 @@
 |14.| <a href="https://github.com/AvinashReddy3108/YetAnotherSMSBomber">YetAnotherSMSBomber</a>|Sms Bomber.|<a href="https://github.com/AvinashReddy3108">AvinashReddy3108</a>|![Not-Working](https://via.placeholder.com/15/f03c15/000000?text=+) |
 |15.| <a href="https://github.com/1d8/smsbomb">smsbomb</a>|Sms Bomber.|<a href="https://github.com/1d8">1d8</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
 |16.| <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a>|Superfast SMS bomber for linux and termux, Also sends OTP to whatsapp. |<a href="https://github.com/anubhavanonymous">anubhavanonymous</a> |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|17.| <a href="https://github.com/ebankoff/BoMbEr">BoMbEr</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
 ### EMAIL BOMBERS :e-mail: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
@@ -82,8 +83,7 @@ To keep this collection up-to-date need contributors who can add more mobile/ema
 |:octocat: [cclauss](https://github.com/cclauss)|:octocat: [juzeon](https://github.com/juzeon)|  
 |:octocat: [rduttshukla](https://github.com/rduttshukla)|:octocat: [Ghost](https://github.com/ghost)|  
 |:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)|
-|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)| |
-
+|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)|:octocat: [ebankoff](https://github.com/ebankoff)|
 
 ## Note:
 
