@@ -43,6 +43,7 @@
 |9.| <a href="https://github.com/juzeon/fast-mail-bomber">Fast Mail Bomber</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails via mailman services hosted by different providers. | <a href="https://github.com/juzeon">juzeon</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |10.| <a href="https://github.com/everydaycodings/Email-Bomber">Email_Bomber_Version2</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails To multiple Victims(Improved Version). | <a href="https://github.com/everydaycodings">everydaycodings</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |11.| <a href="https://github.com/everydaycodings/Email-Bomber">Atomic Email Bomb</a> | A better Gmail bomber. | <a href="https://github.com/zeyad-mansour">zeyad-mansour</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|12.| <a href="https://github.com/bagarrattaa/email-bomber">Email_bomber</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[ffffffffrfrfrffrrfdrfrefdere](https://github.com/bagarrattaa) |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
 ### Whats-app Bombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
