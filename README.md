@@ -43,7 +43,7 @@
 |9.| <a href="https://github.com/juzeon/fast-mail-bomber">Fast Mail Bomber</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails via mailman services hosted by different providers. | <a href="https://github.com/juzeon">juzeon</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |10.| <a href="https://github.com/everydaycodings/Email-Bomber">Email_Bomber_Version2</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails To multiple Victims(Improved Version). | <a href="https://github.com/everydaycodings">everydaycodings</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |11.| <a href="https://github.com/everydaycodings/Email-Bomber">Atomic Email Bomb</a> | A better Gmail bomber. | <a href="https://github.com/zeyad-mansour">zeyad-mansour</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
-|12.| <a href="https://github.com/bagarrattaa/email-bomber">email-bomber</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[ffffffffrfrfrffrrfdrfrefdere](https://github.com/bagarrattaa) |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|12.| <a href="https://github.com/bagarrattaa/email-bomber">email-bomber</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[bagarrattaa](https://github.com/bagarrattaa) |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
 ### Whats-app Bombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
@@ -58,6 +58,13 @@
 |--------|------|--------------|-------------|--------|
 |1.| <a href="https://github.com/bhattsameer/Bombers/blob/master/Twitter_bomber.py">Twitter_bomber.py</a> |Twitter-bomber this will allow spamming the twitter inbox of a person with the message you want, the person who is using this must make sure that the inbox of the user who will be spammed is open. | [akshaykalucha3](https://github.com/akshaykalucha3)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
+
+### TEMP & Fake-SMS Collection:  
+| Sr.No. | Name | Description | Developed By | Status |
+|--------|------|--------------|-------------|--------|
+|1.| <a href="https://github.com/sdushantha/tmpsms">tmpsms</a>| A temporary SMS utility right from your terminal written in POSIX sh. |[sdushantha](https://github.com/sdushantha)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|2.| <a href="https://github.com/Narasimha1997/fake-sms">fake-sms</a>| A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy. |[Narasimha1997](https://github.com/Narasimha1997)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+
 ### Others:
 | Sr.No. | Name | Description | Developed By | Status |
 |--------|------|--------------|-------------|--------|
@@ -66,25 +73,19 @@
 |3.| <a href="https://github.com/b31ngD3v/bomberthon">bomberthon</a> |Best Bombing Tool with WhatsApp, Instagram, SMS bomber | [b31ngD3v](https://github.com/b31ngD3v)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
 |4.| <a href="https://github.com/bhattsameer/Bombers/blob/master/spam.py">PySpam</a> | Spam for pc {not work on phone} | [timofey260](https://github.com/timofey260)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+)|
 
-### TEMP & Fake-SMS Collection:  
-| Sr.No. | Name | Description | Developed By | Status |
-|--------|------|--------------|-------------|--------|
-|1.| <a href="https://github.com/sdushantha/tmpsms">tmpsms</a>| A temporary SMS utility right from your terminal written in POSIX sh. |[sdushantha](https://github.com/sdushantha)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
-|2.| <a href="https://github.com/Narasimha1997/fake-sms">fake-sms</a>| A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy. |[Narasimha1997](https://github.com/Narasimha1997)|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
-
 
 ## Contributors:
 
 To keep this collection up-to-date need contributors who can add more mobile/email/whatsapp/twitter scripts and github repo here at one place.  
-|||
-|--------------|----------|
-|:octocat: [iMro0t](https://github.com/iMro0t)|:octocat: [akshaykalucha3](https://github.com/akshaykalucha3)|  
-|:octocat: [rizwansoaib](https://github.com/rizwansoaib)|:octocat: [xyzricky](https://github.com/xyzricky)|  
-|:octocat: [scienceLabwork](https://github.com/scienceLabwork)|:octocat: [timofey260](https://github.com/timofey260)|  
-|:octocat: [cclauss](https://github.com/cclauss)|:octocat: [juzeon](https://github.com/juzeon)|  
-|:octocat: [rduttshukla](https://github.com/rduttshukla)|:octocat: [Ghost](https://github.com/ghost)|  
-|:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)|
-|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)|:octocat: [ebankoff](https://github.com/ebankoff)|
+||||
+|--------------|----------|----------|
+|:octocat: [iMro0t](https://github.com/iMro0t)|:octocat: [akshaykalucha3](https://github.com/akshaykalucha3)|:octocat: [bagarrattaa](https://github.com/bagarrattaa)|
+|:octocat: [rizwansoaib](https://github.com/rizwansoaib)|:octocat: [xyzricky](https://github.com/xyzricky)|  |
+|:octocat: [scienceLabwork](https://github.com/scienceLabwork)|:octocat: [timofey260](https://github.com/timofey260)|  |
+|:octocat: [cclauss](https://github.com/cclauss)|:octocat: [juzeon](https://github.com/juzeon)|  |
+|:octocat: [rduttshukla](https://github.com/rduttshukla)|:octocat: [Ghost](https://github.com/ghost)| |  
+|:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)| |
+|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)|:octocat: [ebankoff](https://github.com/ebankoff)| |
 
 ## Note:
 
