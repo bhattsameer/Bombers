@@ -26,8 +26,7 @@
 |13.| <a href="https://github.com/Nikait/ni_bomber">ni_bomber</a> |SMS Bomber |<a href="https://github.com/Nikait">Nikait</a>|![Not-Working](https://via.placeholder.com/15/f03c15/000000?text=+) |
 |14.| <a href="https://github.com/AvinashReddy3108/YetAnotherSMSBomber">YetAnotherSMSBomber</a>|Sms Bomber.|<a href="https://github.com/AvinashReddy3108">AvinashReddy3108</a>|![Not-Working](https://via.placeholder.com/15/f03c15/000000?text=+) |
 |15.| <a href="https://github.com/1d8/smsbomb">smsbomb</a>|Sms Bomber.|<a href="https://github.com/1d8">1d8</a>|![Others](https://via.placeholder.com/15/1589F0/000000?text=+) |
-|16.| <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a>|Superfast SMS bomber for linux and termux, Also sends OTP to whatsapp. |<a href="https://github.com/anubhavanonymous">anubhavanonymous</a> |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
-|17.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|16.| <a href="https://github.com/ebankoff/BoMbEr">BoMbEr</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
 ### EMAIL BOMBERS :e-mail: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
@@ -43,7 +42,7 @@
 |9.| <a href="https://github.com/juzeon/fast-mail-bomber">Fast Mail Bomber</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails via mailman services hosted by different providers. | <a href="https://github.com/juzeon">juzeon</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |10.| <a href="https://github.com/everydaycodings/Email-Bomber">Email_Bomber_Version2</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails To multiple Victims(Improved Version). | <a href="https://github.com/everydaycodings">everydaycodings</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 |11.| <a href="https://github.com/everydaycodings/Email-Bomber">Atomic Email Bomb</a> | A better Gmail bomber. | <a href="https://github.com/zeyad-mansour">zeyad-mansour</a>|![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
-|12.| <a href="https://github.com/bagarrattaa/email-bomber">email-bomber</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[bagarrattaa](https://github.com/bagarrattaa) |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
+|12.| <a href="https://github.com/bagarrattaa/email-nuker">email-nuker</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[bagarrattaa](https://github.com/bagarrattaa) |![Working](https://via.placeholder.com/15/c5f015/000000?text=+) |
 
 ### Whats-app Bombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
