@@ -27,7 +27,7 @@
 |14.| <a href="https://github.com/AvinashReddy3108/YetAnotherSMSBomber">YetAnotherSMSBomber</a>|Sms Bomber.|<a href="https://github.com/AvinashReddy3108">AvinashReddy3108</a>|![Not-Working](https://i.ibb.co/wWtD8S6/2.png) |
 |15.| <a href="https://github.com/1d8/smsbomb">smsbomb</a>|Sms Bomber.|<a href="https://github.com/1d8">1d8</a>|![Others](https://i.ibb.co/pQwqwcN/3.png) |
 |16.| <a href="https://github.com/anubhavanonymous/XLR8_BOMBER">XLR8_BOMBER</a>|Superfast SMS bomber for linux and termux, Also sends OTP to whatsapp. |<a href="https://github.com/anubhavanonymous">anubhavanonymous</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
-|17.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
+|17.| <a href="https://github.com/un1cum/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/un1cum">un1cum</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 
 ### EMAIL BOMBERS :e-mail: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
@@ -44,7 +44,7 @@
 |10.| <a href="https://github.com/everydaycodings/Email-Bomber">Email_Bomber_Version2</a> |Fast, multithreading, efficient and easy-to-use mail bombing/spamming tool. Sending mails To multiple Victims(Improved Version). | <a href="https://github.com/everydaycodings">everydaycodings</a>|![Working](https://i.ibb.co/3FntR1c/1.png) |
 |11.| <a href="https://github.com/everydaycodings/Email-Bomber">Atomic Email Bomb</a> | A better Gmail bomber. | <a href="https://github.com/zeyad-mansour">zeyad-mansour</a>|![Working](https://i.ibb.co/3FntR1c/1.png) |
 |12.| <a href="https://github.com/bagarrattaa/email-bomber">email-bomber</a> |this is a email bomber unlike other email bombers u don't need your gmail email id to use this. |[bagarrattaa](https://github.com/bagarrattaa) |![Working](https://i.ibb.co/3FntR1c/1.png) |
-|13.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
+|13.| <a href="https://github.com/un1cum/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/un1cum">un1cum</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 
 ### Whats-app Bombers :calling: :boom:
 | Sr.No. | Name | Description | Developed By | Status |
@@ -53,7 +53,7 @@
 |2.| <a href="https://github.com/tbhaxor/whatabomb">whatabomb</a>  | Whats-app bomber GUI. | [tbhaxor](https://github.com/tbhaxor)|![Working](https://i.ibb.co/3FntR1c/1.png) |
 |3.| <a href="https://github.com/rizwansoaib/WhatsApp-monitor">WhatsApp-Bomber</a> | WhatsApp Monitor+Bomber (Chrome Extension)| [rizwansoaib](https://github.com/rizwansoaib)|![Not-Working](https://i.ibb.co/wWtD8S6/2.png)|
 |4.| <a href="https://github.com/macr1408/Whatsapp-scripts">WhatsApp-Spam</a> | WhatsApp-Spam scripts | [macr1408](https://github.com/macr1408)|![Others](https://i.ibb.co/pQwqwcN/3.png) |
-|5.| <a href="https://github.com/ebankoff/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/ebankoff">ebankoff</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
+|5.| <a href="https://github.com/un1cum/Beast_Bomber">Beast_Bomber</a>|SMS, email, WhatsApp, Telegram, Discord bomber and DoS attacker|<a href="https://github.com/un1cum">un1cum</a> |![Working](https://i.ibb.co/3FntR1c/1.png) |
 
 ### Twitter Bombers :boom:
 | Sr.No. | Name | Description | Developed By | Status |
@@ -87,7 +87,7 @@ To keep this collection up-to-date need contributors who can add more mobile/ema
 |:octocat: [cclauss](https://github.com/cclauss)|:octocat: [juzeon](https://github.com/juzeon)|  |
 |:octocat: [rduttshukla](https://github.com/rduttshukla)|:octocat: [Ghost](https://github.com/ghost)| |  
 |:octocat: [LucasNcipha](https://github.com/LucasNcipha)|:octocat: [everydaycodings](https://github.com/everydaycodings)| |
-|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)|:octocat: [ebankoff](https://github.com/ebankoff)| |
+|:octocat: [zeyad-mansour](https://github.com/zeyad-mansour)|:octocat: [un1cum](https://github.com/un1cum)| |
 
 ## Note:
 
