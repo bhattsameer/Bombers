@@ -95,3 +95,5 @@ To keep this collection up-to-date need contributors who can add more mobile/ema
 𝙏𝙝𝙞𝙨 𝙞𝙨 𝙟𝙪𝙨𝙩 𝙛𝙤𝙧 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙖𝙣𝙙 𝙠𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚 𝙥𝙪𝙧𝙥𝙤𝙨𝙚.
 
 ## Please contribute!
+Thanks everyone for your continued support!! For now I am archiving this project and making it read-only, if anyone wants to contribute please reach out.
+
